@@ -1,4 +1,4 @@
-# 🚀 ultimate-rag
+# 🚀 Ultimate-RAG
 
 **The Ultimate Open-Source RAG Platform for Enterprise AI**  
 _RAG, Evaluation, and Governance—All in One Place_
