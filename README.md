@@ -1,7 +1,7 @@
 # 🚀 Ultimate-RAG
 
 **The Ultimate Open-Source RAG Platform for Enterprise AI**  
-_RAG, Evaluation, and Governance—All in One Place_
+Learn RAG end-to-end and evaluate it with enterprise-grade trust frameworks.
 
 ---
 
