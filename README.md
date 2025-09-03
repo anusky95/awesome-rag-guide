@@ -1,11 +1,11 @@
-# 🚀 Ultimate-RAG
+# 🚀 Awesome-RAG-Guide
 
 **The Ultimate Open-Source RAG Platform for Enterprise AI**  
 Learn RAG end-to-end and evaluate it with enterprise-grade trust frameworks.
 
 ---
 
-## 🌟 What is ultimate-rag?
+## 🌟 What is Awesome-RAG-Guide?
 
 **ultimate-rag** is your all-in-one toolkit for building, testing, and scaling Retrieval-Augmented Generation (RAG) systems—built for enterprise, researchers, and the next wave of AI power users.
 
